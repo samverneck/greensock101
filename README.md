@@ -1,1 +1,3 @@
-# greensock101
+# GreenSock101
+
+- conceitos básicos da API do GreenSock
